@@ -1,4 +1,4 @@
-# Blinkit Sales Data Analysis (SQL Project)
+# Blinkit Sales Data Analysis On SQL and Power BI
 
 ## About
 
@@ -77,3 +77,48 @@ This project focuses on analyzing Blinkit grocery sales data using SQL. It cover
 - Medium-sized outlets perform the best
 - Tier 2 locations contribute significantly to sales
 - Low Fat products outperform Regular in total revenue
+
+## Power BI Dashboard – Business Requirements
+
+This project also includes a Power BI dashboard designed to visualize key business insights derived from the Blinkit sales dataset.
+
+## Dashboard Objectives
+
+The dashboard focuses on analyzing how different factors impact total sales and other key performance indicators (KPIs) such as:
+
+- Average Sales
+- Number of Items
+- Average Rating
+
+## Chart Requirements
+
+1. Total Sales by Fat Content
+
+Objective: Analyze the impact of fat content on total sales
+Additional KPIs: Average Sales, Number of Items, Average Rating
+Chart Type: Donut Chart
+
+2. Total Sales by Item Type
+
+Objective: Identify the performance of different item types in terms of total sales
+Additional KPIs: Average Sales, Number of Items, Average Rating
+Chart Type: Bar Chart
+
+3. Fat Content by Outlet for Total Sales
+
+Objective: Compare total sales across different outlets segmented by fat content
+Additional KPIs: Average Sales, Number of Items, Average Rating
+Chart Type: Stacked Column Chart
+
+4. Total Sales by Outlet Establishment
+Objective: Evaluate how the age or type of outlet establishment influences total sales
+Chart Type: Line Chart
+
+## Why This Matters
+
+This dashboard transforms raw SQL analysis into visual insights, making it easier to:
+
+Identify top-performing product categories
+Understand customer preferences (Low Fat vs Regular)
+Evaluate outlet performance across locations and sizes
+Support data-driven business decisions
